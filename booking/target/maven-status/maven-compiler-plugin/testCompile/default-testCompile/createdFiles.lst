@@ -1,0 +1,3 @@
+com\train\london\france\booking\BookingApplicationTests.class
+com\train\london\france\booking\controllertests\BookingControllerTest.class
+com\train\london\france\booking\servicetests\BookingServiceImplTest.class
